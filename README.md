@@ -4,7 +4,7 @@
 This project was developed as part of the **WISH Mentorship Program at Texas Instruments**, by a team of 5 students.  
 🔗 [Project Link](https://www.canva.com/design/DAGpgSCPiC4/OsMNQZafhaJAm09p1mCJew/edit)  
 
-**Team Members:** Manvitha, Akhila, Nitisha, Anshu, Shruthi  
+**Team Members:** Manvitha, Akhila, Nitisha, Anshu, Shruti  
 
 The project focuses on tackling **smartphone and social media distractions** among students during study or work sessions. We designed a **wearable wristband** that detects distraction using physiological and motion signals, and provides subtle, real-time feedback to help regain focus.  
 
